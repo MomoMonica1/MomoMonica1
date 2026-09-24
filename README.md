@@ -1,6 +1,16 @@
 # Hi, I'm Monica 👋
 
-Welcome to my project portfolio. I work with statistical modeling and numerical methods to explore questions in data science and applied mathematics.
+I'm a **Master of Analytics student at UC Berkeley** with a background in
+**Statistics and Data Science from the University of Michigan**.
+
+I build **AI-powered applications, machine learning systems, and data-driven software**,
+with interests in LLM agents, backend systems, ML pipelines, and intelligent automation.
+
+My projects range from **LLM-powered data agents and automated diagnostic systems**
+to machine learning, statistical modeling, and numerical computing.
+
+Currently exploring opportunities in **AI Engineering, Machine Learning Engineering,
+Software Engineering, and Data Science**.
 
 ## Featured projects
 
